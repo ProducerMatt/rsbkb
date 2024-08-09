@@ -10,3 +10,7 @@ target/
 /musl*
 launch.json
 tags
+
+# Nix shell
+/.direnv
+result
